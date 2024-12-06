@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "16ead9f9e46584c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "695347000005ba26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be1f13f79823f0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "e4752a472d84944c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Async and await.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Async and await"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "991fa0c5c1a14a06",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f1cc8a1aa36807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b3f9bb4b0a7b917",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1a29d803c78eed9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6701a8062600853f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "511e157359526d4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d49d44c9196dd17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5fc1d7f16ad53b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Python/Async and await.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Async and await"
+            }
+          },
+          {
+            "id": "f74dc30ab5993085",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Python/Async and await.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Async and await"
+            }
+          },
+          {
+            "id": "8515e2bc5f81191a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9e8c81232ae45bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Python/Async and await.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Async and await"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5b3f9bb4b0a7b917",
+  "lastOpenFiles": [
+    "Programming/Python/Code/async.py",
+    "Programming/Python/Code",
+    "Untitled.md",
+    "Programming/Python/Async and await.md",
+    "Programming/General/Coroutines.md",
+    "Programming/General/Concurrency vs Parallelism.md",
+    "Programming/General",
+    "Programming/Python",
+    "README.md",
+    "Programming"
+  ]
+}

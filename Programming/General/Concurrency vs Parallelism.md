@@ -1,0 +1,3 @@
+Using concurrency the start and stop times of multiple [[Coroutines|coroutines]] can overlap, while using the same single thread. The compute unit can operate on coroutines at times needed, without the need for finishing each of the task first before jumping to another. For example, one coroutine can await another, to make better use of the resources, provided by the compute unit.
+
+Parallelism makes use of the multithreadedness of the compute unit and can run all the coroutines in a batch, every task running simultaneously. This can be useful, when it's clear there are multiple threads available, which is not always guaranteed, which necessitates the definition of multithreaded usage of the compute unit by the program.
