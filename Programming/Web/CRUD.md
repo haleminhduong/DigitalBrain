@@ -1,0 +1,1 @@
+Create, Read, Update, and Delete. These are the common operations you can apply on a database or a data storage.

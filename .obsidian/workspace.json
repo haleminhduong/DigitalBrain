@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Async and await.md",
+                "file": "Programming/Python/Jinja2/Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Async and await"
+              "title": "Environment"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/Async and await.md",
+                "file": "Programming/Python/Jinja2/Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Async and await"
+              "title": "Backlinks for Environment"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/Async and await.md",
+                "file": "Programming/Python/Jinja2/Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Async and await"
+              "title": "Outgoing links from Environment"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/Async and await.md"
+                "file": "Programming/Python/Jinja2/Environment.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Async and await"
+              "title": "Outline of Environment"
             }
           }
         ]
@@ -177,17 +177,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b3f9bb4b0a7b917",
+  "active": "e4752a472d84944c",
   "lastOpenFiles": [
+    "Programming/Web/GET POST PUT PATCH DELETE.md",
+    "Programming/Python/Jinja2/Environment.md",
+    "Programming/Python/Jinja2",
+    "Programming/Web/CRUD.md",
+    "Programming/Web/REST.md",
+    "Programming/Web/HTTP.md",
+    "Programming/Python/Async and await.md",
+    "Programming/Web",
+    "Programming/General/Concurrency vs Parallelism.md",
+    "Programming/General/Coroutines.md",
+    "README.md",
+    "Untitled.md",
     "Programming/Python/Code/async.py",
     "Programming/Python/Code",
-    "Untitled.md",
-    "Programming/Python/Async and await.md",
-    "Programming/General/Coroutines.md",
-    "Programming/General/Concurrency vs Parallelism.md",
     "Programming/General",
     "Programming/Python",
-    "README.md",
     "Programming"
   ]
 }
